@@ -10,9 +10,9 @@ This repository contains my solutions to various practice problems from HackerRa
 
 Throughout my practice, I have developed and improved the following skills:
 
-- **Problem Solving (Basic)**: I have tackled basic problem-solving challenges on HackerRank, focusing on understanding the problems and coming up with efficient solutions.
+- **Problem-Solving (Basic)**: I have tackled basic problem-solving challenges on HackerRank, focusing on understanding the problems and coming up with efficient solutions.
 - **Python (Basic)**: My Python programming skills have been honed through various exercises, helping me become more proficient in writing clean and concise Python code.
-- **Problem Solving (Advanced)**: I have taken on more advanced problem-solving challenges, requiring deeper analysis and creative problem-solving techniques.
+- **Problem-Solving (Advanced)**: I have taken on more advanced problem-solving challenges, requiring deeper analysis and creative problem-solving techniques.
 - **Python (Intermediate)**: Through the intermediate-level problems, I have improved my understanding of Python's more complex features and libraries.
 
 ## Problem Categories
@@ -39,7 +39,31 @@ The problems I have practiced are categorized based on different topics and subd
 
 ## Repository Contents
 
-In this repository, you will find Python files containing my solutions to the HackerRank problems for each category.
+This repository is organized into folders, with each folder representing a specific category from the HackerRank Python domain. The folders are named as follows:
+
+- **Introduction**
+
+![Screenshot 2023-08-07 034217](https://github.com/AMSANJEEV28/Python_HackerRank/assets/81654437/fe05034e-4ea2-446c-983d-1dc9e358f4ab)
+
+- **Basic Data Types**
+- **Strings**
+- **Sets**
+- **Math**
+- **Itertools**
+- **Collections**
+- **Date and Time**
+- **Errors and Exceptions**
+- **Classes**
+- **Built-Ins**
+- **Python Functionals**
+- **Regex and Parsing**
+- **XML**
+- **Closures and Decorators**
+- **Numpy**
+- **Debugging**
+
+Inside each folder, you will find Python files containing my solutions to the respective HackerRank problems for that category.
+
 
 ## Happy Coding!
 
