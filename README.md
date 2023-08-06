@@ -1,6 +1,6 @@
-# My HackerRank Python Practice Solutions
+# HackerRank Python Practice Solutions
 
-![HackerRank Logo](https://cdn.hackerrank.com/hackerrank/static/brand/LogoLockup.svg)
+![hackerank-logo](https://github.com/AMSANJEEV28/Python_HackerRank/assets/81654437/d22665ee-edc4-4c79-b079-1f21ad083271)
 
 ## Overview
 
