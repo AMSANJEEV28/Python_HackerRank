@@ -46,6 +46,9 @@ This repository is organized into folders, with each folder representing a speci
 ![Screenshot 2023-08-07 034217](https://github.com/AMSANJEEV28/Python_HackerRank/assets/81654437/fe05034e-4ea2-446c-983d-1dc9e358f4ab)
 
 - **Basic Data Types**
+
+![Screenshot 2023-08-08 001700](https://github.com/AMSANJEEV28/Python_HackerRank/assets/81654437/a7cd767d-e3d0-421e-b401-42e87f1134b7)
+
 - **Strings**
 - **Sets**
 - **Math**
