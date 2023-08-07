@@ -43,7 +43,7 @@ This repository is organized into folders, with each folder representing a speci
 
 - **Introduction**
 
-![Screenshot 2023-08-07 034217](https://github.com/AMSANJEEV28/Python_HackerRank/assets/81654437/fe05034e-4ea2-446c-983d-1dc9e358f4ab)
+![258668203-fe05034e-4ea2-446c-983d-1dc9e358f4ab](https://github.com/AMSANJEEV28/Python_HackerRank/assets/81654437/b9c3a94b-c7ee-45c8-b5d5-819c357d580f)
 
 - **Basic Data Types**
 
