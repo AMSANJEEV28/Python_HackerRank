@@ -50,6 +50,9 @@ This repository is organized into folders, with each folder representing a speci
 ![Screenshot 2023-08-08 001700](https://github.com/AMSANJEEV28/Python_HackerRank/assets/81654437/a7cd767d-e3d0-421e-b401-42e87f1134b7)
 
 - **Strings**
+- 
+![Screenshot 2023-08-10 183541](https://github.com/AMSANJEEV28/Python_HackerRank/assets/81654437/bd9408ba-fe81-4f5f-81e3-9e23413634a2)
+
 - **Sets**
 - **Math**
 - **Itertools**
